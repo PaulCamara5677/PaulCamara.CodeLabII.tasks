@@ -6,10 +6,6 @@ root = Tk()
 root.title('Display Name')
 root.geometry('400x200')
 root.config(bg='#234567')
-
-root.mainloop() 
-
-
 #Create a label 
 l1 = Label(root, text = "Enter Name",
 bg='#234567',fg="white",font=("tahoma",12))
@@ -39,3 +35,5 @@ def onClick():
 	# Append the name at the end of the Label2 text
 	s = f' Your name is : {name}'
 	l2.configure(text=s)  
+
+root.mainloop() 
