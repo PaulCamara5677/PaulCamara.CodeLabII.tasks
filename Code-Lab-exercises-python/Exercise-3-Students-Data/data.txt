@@ -1,5 +1,0 @@
-John Doe, Level 4, Group 1, Age 19
-Jane Smith, Level 5, Group 2, Age 21
-Mike Johnson, Level 6, Group 3, Age 24
-Emily Davis, Level 4, Group 2, Age 22
-Anna Brown, Level 5, Group 1, Age 20
